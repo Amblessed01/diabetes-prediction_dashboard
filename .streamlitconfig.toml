@@ -1,0 +1,38 @@
+# .streamlit/config.toml
+
+[theme]
+primaryColor = "#FF4B4B"
+backgroundColor = "#0E1117"
+secondaryBackgroundColor = "#262730"
+textColor = "#FAFAFA"
+font = "sans serif"
+
+[server]
+maxUploadSize = 200
+enableCORS = false
+enableXsrfProtection = true
+
+[browser]
+gatherUsageStats = false
+
+[client]
+showErrorDetails = true
+
+[runner]
+magicEnabled = false
+
+# Layout
+[global]
+showWarningOnDirectExecution = true
+showSidebarNavigation = true
+
+# Page configuration
+[page]
+layout = "centered"
+initialSidebarState = "expanded"
+
+# UI Elements
+[ui]
+hideTopBar = false
+hideFooter = false
+hideMenu = false

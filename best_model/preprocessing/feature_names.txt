@@ -1,0 +1,15 @@
+gender
+age
+hypertension
+heart_disease
+bmi
+HbA1c_level
+blood_glucose_level
+smoking_No Info
+smoking_former
+age_bmi_interaction
+hba1c_glucose_interaction
+age_squared
+bmi_squared
+hba1c_squared
+risk_score
